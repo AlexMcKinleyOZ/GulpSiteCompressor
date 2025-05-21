@@ -34,6 +34,7 @@ SiteCompressor/
 ```bash
 npm install
 ```
+4. 元ファイル（HTML,CSS,JavaScript,img/JPEG,img/PNG）をsrcに入れる
 
 ## ▶️ ビルド実行方法
 以下のコマンドでビルドを実行します：
@@ -41,7 +42,7 @@ npm install
 ```bash
 npx gulp
 ```
-## output/ フォルダ内に最適化されたファイルが出力されます。
+output/ フォルダ内に最適化されたファイルが出力されます。
 
 ## ⚠️ 注意事項
 node_modules/ フォルダは含めていません。npm install を実行して再構築してください。
