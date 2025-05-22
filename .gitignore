@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Gulp output directory
+dist/
+output/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Cache folders
+.cache/
+tmp/
